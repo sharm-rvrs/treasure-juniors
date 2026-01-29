@@ -1,0 +1,48 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# =========================
+# Blender / 3D source files
+# =========================
+*.blend
+*.blend1
+
+# =========================
+# Android / builds
+# =========================
+*.apk
+*.aab
+aab_folder/
+
+# =========================
+# Keystore / keys (VERY IMPORTANT)
+# =========================
+*.keystore
+*.jks
+key_daw/
+
+# =========================
+# IDE files
+# =========================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.vsconfig
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db

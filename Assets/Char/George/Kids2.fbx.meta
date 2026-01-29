@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: ad1bb7eda4326a44bae81c0bb1280182
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01.White Eye.007
+    second: {fileID: 2100000, guid: ffa1d44d69be3e041938acda4d2ca53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01.White Eye.008
+    second: {fileID: 2100000, guid: ffa1d44d69be3e041938acda4d2ca53a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Kids2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere.002
+      parentName: Kids2(Clone)
+      position: {x: -0.91896963, y: 13.011066, z: 0.5989189}
+      rotation: {x: 0.003208544, y: -0.01800293, z: 0.40994036, w: 0.911929}
+      scale: {x: 115.645996, y: 117.28379, z: 87.0196}
+    - name: Sphere.001
+      parentName: Kids2(Clone)
+      position: {x: 0.92662, y: 13.011066, z: 0.56204224}
+      rotation: {x: 0.003208544, y: -0.01800293, z: 0.40994036, w: 0.911929}
+      scale: {x: 115.645996, y: 117.28379, z: 87.0196}
+    - name: Plane.001
+      parentName: Kids2(Clone)
+      position: {x: 0.004986435, y: 11.403758, z: 1.0900917}
+      rotation: {x: -0.38086006, y: 0.0006580062, z: 0.001932285, w: 0.92463046}
+      scale: {x: 47.451126, y: 47.451126, z: 47.451126}
+    - name: Plane.002
+      parentName: Kids2(Clone)
+      position: {x: 0.010592669, y: 12.006545, z: 1.2211647}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 47.451126, y: 47.451126, z: 47.451126}
+    - name: Cube.019
+      parentName: Kids2(Clone)
+      position: {x: -5.041782, y: 9.86483, z: -0.5506325}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 37.15438, y: 37.15438, z: 30.910582}
+    - name: Cube.020
+      parentName: Kids2(Clone)
+      position: {x: 4.8413663, y: 9.86483, z: -0.5506325}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 37.15438, y: 37.15438, z: 30.910582}
+    - name: Cube.017
+      parentName: Kids2(Clone)
+      position: {x: -0.07896608, y: 9.424419, z: -0.6088028}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 102.43458, y: 102.43458, z: 102.43458}
+    - name: Cube.018
+      parentName: Kids2(Clone)
+      position: {x: -0.07896608, y: 10.342468, z: -0.7249832}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 102.43458, y: 102.43458, z: 102.43458}
+    - name: Cube.001
+      parentName: Kids2(Clone)
+      position: {x: -0.06069046, y: 5.358879, z: -0.24396896}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 191.90948, y: 100, z: 100}
+    - name: Cube.003
+      parentName: Kids2(Clone)
+      position: {x: -0.07896608, y: 9.59394, z: -0.6734352}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 102.43458, y: 102.43458, z: 102.43458}
+    - name: knan.001
+      parentName: Kids2(Clone)
+      position: {x: 1.0397027, y: 0.8284855, z: -0.6878052}
+      rotation: {x: 0.70542806, y: 0.04869591, z: -0.04869592, w: 0.70542806}
+      scale: {x: -155.43701, y: -102.66566, z: -102.66567}
+    - name: Front_parts14_52.001
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.002
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.003
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.004
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.005
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.006
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.007
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.008
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.009
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.010
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.011
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.012
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.013
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.014
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.015
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.016
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.017
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.018
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.019
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.020
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.021
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.022
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.023
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.024
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.025
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.026
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.027
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.028
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.029
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.030
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.031
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.032
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.033
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.034
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.035
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: Front_parts14_52.036
+      parentName: Kids2(Clone)
+      position: {x: -0.036340356, y: 13.96426, z: -2.085472}
+      rotation: {x: 0.08498862, y: 0, z: -0, w: 0.99638194}
+      scale: {x: 1973.7318, y: 1617.2021, z: 1973.7318}
+    - name: kepala
+      parentName: Kids2(Clone)
+      position: {x: 0.0023699105, y: 14.118561, z: -1.1032639}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 225.61565, y: 225.61565, z: 225.61565}
+    - name: alis kanan
+      parentName: Kids2(Clone)
+      position: {x: 0.0023699105, y: 13.675114, z: -1.1594219}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 246.89343, y: 233.45706, z: 233.45706}
+    - name: telinga kiri
+      parentName: Kids2(Clone)
+      position: {x: -2.2463157, y: 12.522324, z: -0.9090309}
+      rotation: {x: -0.6368541, y: -0.30727324, z: -0.3072733, w: 0.63685405}
+      scale: {x: 101.60877, y: 67.74124, z: 100}
+    - name: telinga knan
+      parentName: Kids2(Clone)
+      position: {x: 2.2098053, y: 12.522324, z: -0.9090309}
+      rotation: {x: 0.6414165, y: 0.2976324, z: -0.29763252, w: 0.6414163}
+      scale: {x: -101.72153, y: -67.672806, z: -100}
+    - name: Cylinder
+      parentName: Kids2(Clone)
+      position: {x: -1.044803, y: 1.9205208, z: -0.688324}
+      rotation: {x: -0.7116686, y: 0, z: -0, w: 0.70251536}
+      scale: {x: 23.304787, y: 28.572918, z: 62.421803}
+    - name: Cylinder.001
+      parentName: Kids2(Clone)
+      position: {x: 1.0468508, y: 1.9205208, z: -0.68224335}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 23.304787, y: 28.572918, z: 62.421806}
+    - name: badan dan hand
+      parentName: Kids2(Clone)
+      position: {x: -0.07892984, y: 8.611456, z: 0.5113678}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 37.15438, y: 37.15438, z: 30.910582}
+    - name: knan
+      parentName: Kids2(Clone)
+      position: {x: -1.0826995, y: 0.8284855, z: -0.6878052}
+      rotation: {x: -0.703631, y: -0.07002468, z: -0.07002468, w: 0.703631}
+      scale: {x: 155.43733, y: 102.665665, z: 102.66567}
+    - name: tali kanan
+      parentName: Kids2(Clone)
+      position: {x: -1.0804292, y: 0.76215744, z: -0.72877884}
+      rotation: {x: -0.703631, y: -0.07002467, z: -0.07002467, w: 0.703631}
+      scale: {x: 163.94809, y: 108.28699, z: 108.287}
+    - name: tali kanan 1
+      parentName: Kids2(Clone)
+      position: {x: -1.0095229, y: 0.8048229, z: -0.8281021}
+      rotation: {x: -0.69898015, y: -0.06956182, z: -0.07048449, w: 0.70825124}
+      scale: {x: 177.4473, y: 117.20314, z: 117.20316}
+    - name: tali kanan.001
+      parentName: Kids2(Clone)
+      position: {x: 1.0318612, y: 0.79629135, z: -0.68292236}
+      rotation: {x: -0.71090686, y: 0.04647789, z: 0.0457814, w: 0.7002537}
+      scale: {x: 163.94807, y: 108.28699, z: 108.28701}
+    - name: tali kanan 1.001
+      parentName: Kids2(Clone)
+      position: {x: 1.053642, y: 0.82987976, z: -0.83860016}
+      rotation: {x: -0.6944109, y: 0.04539941, z: 0.04685111, w: 0.7166152}
+      scale: {x: 177.4473, y: 117.20314, z: 117.20315}
+    - name: Cube.015
+      parentName: Kids2(Clone)
+      position: {x: -1.0826995, y: 0.8284855, z: -0.6878052}
+      rotation: {x: -0.703631, y: -0.07002468, z: -0.07002468, w: 0.703631}
+      scale: {x: 155.43733, y: 102.665665, z: 102.66567}
+    - name: Cube.016
+      parentName: Kids2(Clone)
+      position: {x: 1.0297126, y: 0.8284855, z: -0.68218994}
+      rotation: {x: -0.70560044, y: 0.046130966, z: 0.04613097, w: 0.7056004}
+      scale: {x: 155.43732, y: 102.665665, z: 102.66567}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

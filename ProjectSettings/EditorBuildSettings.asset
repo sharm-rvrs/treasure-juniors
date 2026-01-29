@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/te.unity
+    guid: 16e725517a91074418f7c3f9974d7b0b
+  - enabled: 1
+    path: Assets/_Scenes/menu/Main_Menu.unity
+    guid: 7dccc87fd68af5847a80dbb8b7179014
+  - enabled: 1
+    path: Assets/_Scenes/Map/worldmap/World_Map.unity
+    guid: 0681527dab672b546912a1d91971ca3d
+  - enabled: 1
+    path: Assets/_Scenes/Map/mathmap/Math_Map.unity
+    guid: 24da28c472dd63b46b382c128c775d97
+  - enabled: 1
+    path: Assets/_Scenes/Map/sciencemap/Science_Map.unity
+    guid: 681f40a1356d5bc4d9695206e6569c66
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/1 Logic (Stage 1)/Math_Logic_Stage1_Level1.unity
+    guid: 6053b298e7aa7d64c8e06dee4f445d6e
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/1 Logic (Stage 1)/Math_Logic_Stage1_Level2.unity
+    guid: b73ea0fa6ead0d046bd8cd9013560baa
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/1 Logic (Stage 1)/Math_Logic_Stage1_Level3.unity
+    guid: 38d60d9c2debdbf4bad9a8532d3e56a6
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/1 Logic (Stage 1)/Math_Logic_Stage1_Level4.unity
+    guid: 70412750182a58d48ad8ce41a696713e
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/1 Logic (Stage 1)/Math_Logic_Stage1_Level5.unity
+    guid: 6081476a50fa29a4cad2664b0413d164
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/2 NumberSense (Stage2)/Math_Number_Sense_Stage2_Level1.unity
+    guid: f8f8593b5ff2e084aa20dc2ae9b57daf
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/2 NumberSense (Stage2)/Math_Number_Sense_Stage2_Level2.unity
+    guid: 3a753119e3117374bb33d51fc30ff622
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/2 NumberSense (Stage2)/Math_Number_Sense_Stage2_Level3.unity
+    guid: 438a6c9eebd82c849aabe1b94c31368a
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/2 NumberSense (Stage2)/Math_Number_Sense_Stage2_Level4.unity
+    guid: fb89443e40e199f4198229094a0e4f41
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/2 NumberSense (Stage2)/Math_Number_Sense_Stage2_Level5.unity
+    guid: eef5668d8bb71424d8afbd1619e17a1e
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/3 Measurement (Stage 3)/Math_Measurement_Stage3_Level1.unity
+    guid: d6bd3dd52d3234f4c8a6a685bffa078d
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/3 Measurement (Stage 3)/Math_Measurement_Stage3_Level2.unity
+    guid: 7968cb33236d07a4aad956347e58a687
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/3 Measurement (Stage 3)/Math_Measurement_Stage3_Level3.unity
+    guid: 91e39a349399c7747978af003a42a477
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/3 Measurement (Stage 3)/Math_Measurement_Stage3_Level4.unity
+    guid: 91656b55055a0e348a66d265934d968c
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/3 Measurement (Stage 3)/Math_Measurement_Stage3_Level5.unity
+    guid: c64caa7dbabd2fb47829f442901faa20
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/4 Geometry (Stage 4)/Math_Geometry_Stage4_Level1.unity
+    guid: 4e359ca5e43c1ce48a7e120b87c090ab
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/4 Geometry (Stage 4)/Math_Geometry_Stage4_Level2.unity
+    guid: afe23a2898dc03b47b6e76721b9565a4
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/4 Geometry (Stage 4)/Math_Geometry_Stage4_Level3.unity
+    guid: c0dc20a58788e904bbf7db89c7251f4a
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/4 Geometry (Stage 4)/Math_Geometry_Stage4_Level4.unity
+    guid: ea18c33bf536a8d4385bb481947601ce
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/4 Geometry (Stage 4)/Math_Geometry_Stage4_Level5.unity
+    guid: 8f10177269ba95047852ddaea321cc6c
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/1 LifeScience (Stage 1)/Science_Life_Science_Stage1_Level1.unity
+    guid: 5f3e50360333eb247939ade609d52e22
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/1 LifeScience (Stage 1)/Science_Life_Science_Stage1_Level2.unity
+    guid: d7c6751e9b671ce449e468e844244658
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/1 LifeScience (Stage 1)/Science_Life_Science_Stage1_Level3.unity
+    guid: 8ee14930394e8a649995e1a474e7b78e
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/1 LifeScience (Stage 1)/Science_Life_Science_Stage1_Level4.unity
+    guid: 8733423c6b799cc43ad7780b9d57951a
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/1 LifeScience (Stage 1)/Science_Life_Science_Stage1_Level5.unity
+    guid: e5c43b88661507d4ab145aa41708c47b
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/2 PhysicalScience (Stage 2)/Science_Physical_Science_Stage2_Level1.unity
+    guid: 6fe1b7e9fecbcae4bb749843276e37bc
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/2 PhysicalScience (Stage 2)/Science_Physical_Science_Stage2_Level2.unity
+    guid: 237ec421b103d0e448e3c752140685c1
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/2 PhysicalScience (Stage 2)/Science_Physical_Science_Stage2_Level3.unity
+    guid: 5257dc8cfca643d418c4401a3bf6c063
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/2 PhysicalScience (Stage 2)/Science_Physical_Science_Stage2_Level4.unity
+    guid: a11ff2800d455484c914d61c1c11707c
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/2 PhysicalScience (Stage 2)/Science_Physical_Science_Stage2_Level5.unity
+    guid: b96333953238f6c4fbb8b0dfe49ddcce
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/3 EarthScience (Stage 3)/Science_Earth_Science_Stage3_Level1.unity
+    guid: 1d271035c7905d84494f1a2dae7e0187
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/3 EarthScience (Stage 3)/Science_Earth_Science_Stage3_Level2.unity
+    guid: d397cbd7cdfcf994aa673f9176fced9a
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/3 EarthScience (Stage 3)/Science_Earth_Science_Stage3_Level3.unity
+    guid: e42a9762cb43ef147a796af171b53885
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/3 EarthScience (Stage 3)/Science_Earth_Science_Stage3_Level4.unity
+    guid: 502c38eb0087bfb48ba61b47b284cb27
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Science/3 EarthScience (Stage 3)/Science_Earth_Science_Stage3_Level5.unity
+    guid: 996a1b98d95fcbd4e8931fbe8dbfd1d9
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/5 StatProb (Stage 5)/Math_Stat_Prob_Stage5_Level1.unity
+    guid: 4811a82e210d0e54388425214fd341e3
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/5 StatProb (Stage 5)/Math_Stat_Prob_Stage5_Level2.unity
+    guid: 2624c963f3236594da74253fc3656e15
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/5 StatProb (Stage 5)/Math_Stat_Prob_Stage5_Level3.unity
+    guid: dc64abdc5d87fa44e952f659bd9f42bf
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/5 StatProb (Stage 5)/Math_Stat_Prob_Stage5_Level4.unity
+    guid: aafd0a34d0dedb1458d03d585e31a8b6
+  - enabled: 1
+    path: Assets/_Scenes/Gameplay/Math/5 StatProb (Stage 5)/Math_Stat_Prob_Stage5_Level5.unity
+    guid: c9db7da22a8febc48b4c5489f42fdc7f
+  - enabled: 1
+    path: Assets/_Scenes/Story/Story.unity
+    guid: e64b2456d2911624d8d09d761e98a02f
+  - enabled: 1
+    path: Assets/_Scenes/Story/Story_1.unity
+    guid: 63d8a8b424d30ce4e99523d93fcaef33
+  - enabled: 1
+    path: Assets/_Scenes/Story/Story_2.unity
+    guid: 26244f3f225d18b46b106f539e18d9e9
+  - enabled: 1
+    path: Assets/_Scenes/Story/Story_3.unity
+    guid: 7e730bb0331614c4fb05d14378841d97
+  - enabled: 1
+    path: Assets/_Scenes/Story/last_scene.unity
+    guid: 06a4df76d040c194fb2257323dc4c7ca
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d0f037c51ed38764fab7f7dda1090321,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: f7ff50b54735cab4cbbb24d83b1e1e7c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: bed092009bb22c847beb23eafa936f9d, type: 2}
